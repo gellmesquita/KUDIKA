@@ -1,0 +1,763 @@
+<div style="background-color: #0b0b0b;" class="flex-col flex md:flex-row">
+    <div class="flex flex-wrap">
+        <img src="assets/desenvolvimento-pessoal-840x430.jpg" style=" object-fit: cover;"  class="bg-red-50 w-full h-auto" alt="">
+    </div>
+    <div class="flex justify-center items-center flex-col py-16">
+        <img src="assets/logo2.png" height="100" class="w-60 md:w-72 lg:w-96" alt="" srcset="">
+        <h1 class="font-bold text-red-600 text-4xl text-center bg-red-50 p-5 md:-ml-20 mt-6">Uma agência que já nasceu digital, com um time apaixonado por métricas, performance, resultados e tecnologia</h1>
+   <!-- <p class="text-center px-32"> </p> -->
+    </div>
+</div>
+
+<div style="background-color: #0b0b0b;" class=" px-3 flex pb-36 pt-40 sm:px-16">
+    <!-- <div class="flex flex-wrap">
+        <div style="background:url('assets/desenvolvimento-pessoal-840x430.jpg'); object-fit: cover;"  class="bg-red-50 -mt-10 w-96 h-96" alt=""></div>
+        <div style="background:url('assets/pexels-lukas-590041.jpg'); object-fit: cover;" class="bg-red-50 w-80 h-96" alt=""></div>
+    </div> -->
+    <div class="flex justify-center items-center flex-col w-full">
+        <img src="assets/logo2.png" height="100" class="w-60 md:w-72 lg:w-96" alt="" srcset="">
+        <h1 class="font-bold text-red-600 text-4xl text-center mt-6">AGÊNCIA QUE O SEU NEGÓCIO PRECISA</h1>
+   <!-- <p class="text-center px-32">Mais do que apenas criar canais, queremos que a sua empresa crie conexões com seu público. Sua empresa precisa se diferenciar dos concorrentes, encantar e construir experiências marcantes. </p> -->
+    </div>
+</div>
+
+
+
+
+    <!-- <div style="background-color: #0b0b0b;" class=" px-3 flex pb-36 pt-40 sm:px-16">
+        <div class="flex flex-wrap">
+            <div style="background:url('assets/desenvolvimento-pessoal-840x430.jpg'); object-fit: cover;"  class="bg-red-50 -mt-10 w-96 h-96" alt=""></div>
+            <div style="background:url('assets/pexels-lukas-590041.jpg'); object-fit: cover;" class="bg-red-50 w-80 h-96" alt=""></div>
+        </div>
+        <div class="flex justify-center items-center flex-col w-full">
+            <img src="assets/logo2.png" height="100" class="w-60 md:w-72 lg:w-96" alt="" srcset="">
+            <h1 class="font-bold text-red-600 text-4xl text-center mt-6">AGÊNCIA QUE O SEU NEGÓCIO PRECISA</h1>
+       <p class="text-center px-32">Mais do que apenas criar canais, queremos que a sua empresa crie conexões com seu público. Sua empresa precisa se diferenciar dos concorrentes, encantar e construir experiências marcantes. </p>
+        </div>
+    </div> -->
+<!-- 
+    <div style="    columns:2 300px;
+        column-gap: 0.2em; " class=" mb-20">
+
+        <div class="w-full bg-gray-300" style="background-image: url('assets/.jpg');">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea nihil itaque totam
+                molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe voluptatibus expedita in
+                consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea
+                nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe
+                voluptatibus expedita in consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Fuga perspiciatis nobis ea nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni
+                harum architecto, saepe voluptatibus expedita in consequuntur ipsum.</p>
+        </div>
+
+        <div class="w-full  bg-gray-300" style="background-image: url('assets/.jpg');">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea nihil itaque totam
+                molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe voluptatibus expedita in
+                consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea
+                nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe
+                voluptatibus expedita in consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Fuga perspiciatis nobis ea nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni
+                harum architecto, saepe voluptatibus expedita in consequuntur ipsum.</p>
+        </div>
+
+        <div class="w-full  bg-gray-300" style="background-image: url('assets/.jpg');">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea nihil itaque totam
+                molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe voluptatibus expedita in
+                consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea
+                nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe
+                voluptatibus expedita in consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Fuga perspiciatis nobis ea nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni
+                harum architecto, saepe voluptatibus expedita in consequuntur ipsum.</p>
+        </div>
+
+        <div class="w-full  bg-gray-300" style="background-image: url('assets/.jpg');">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea nihil itaque totam
+                molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe voluptatibus expedita in
+                consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga perspiciatis nobis ea
+                nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni harum architecto, saepe
+                voluptatibus expedita in consequuntur ipsum.Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Fuga perspiciatis nobis ea nihil itaque totam molestias, numquam natus eos veniam? Consequatur magni
+                harum architecto, saepe voluptatibus expedita in consequuntur ipsum.</p>
+        </div>
+    </div>
+   -->
+   <div style="display: none;" class=" flex-col lg:flex-row w-3/6">
+    <div style="background: url('assets/pexels-lukas-590041.jpg'); background-size: cover; background-attachment: fixed;" class=" h-80 w-full animated fadeInLeft animated-fast ">
+
+    </div> 
+    <div style="background: url('assets/pexels-lukas-590041.jpg'); background-size: cover;" class=" h-80 w-full -mt-64 ml-11 font-semibold animated fadeIn animated-fast  flex justify-center items-center text-red-300 text-5xl">
+        <div id="slider">
+            <figure> 
+                <img src="assets/pexels-mikael-blomkvist-6476190.jpg" alt="" class="w-96 h-auto">
+                <img src="assets/pexels-kaboompics-com-6229.jpg" alt="" class="w-96 h-auto">
+                <img src="assets/pexels-mikael-blomkvist-6476249.jpg" alt="" class="w-96 h-auto">
+            </figure></div>
+    </div>
+</div>
+
+
+            #slider {
+                overflow: hidden;
+            }
+
+            #slider figure {
+                position: relative;
+                width: 500%;
+                margin: 0;
+                left: 0;
+                animation: 20s slider infinite;
+            }
+            #slider figure img {
+                width: 20%;
+                float: left;
+                height: 340px !important;
+object-fit: cover;
+            }
+
+            @keyframes slider {
+                0% {left: 0%;}
+                10% {left: 0%;}
+                20% {left: -100%;}
+                30% {left: -100%;}
+                40% {left: -200%;}
+                50% {left: -200%;}
+                60% {left: -100%;}
+                70% {left: -100%;}
+                80% {left: 0%;}
+                90% {left: 0%;}
+                100% {left: 0%;}
+                /* 95% {left: -100%;}
+         
+                100% {left: 0%;}
+       */
+            }
+
+
+
+            <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KUDIKA DIGITAL</title>
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/css.css">
+    <link rel="stylesheet" href="css/hover.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+
+    <style>
+        body::-webkit-scrollbar {
+width: 6px;
+background:   #fff;
+/* border-radius: 100px; */
+padding: 5px 1px !important;
+transition: 2s;
+}
+
+body{
+    overflow-x:hidden;
+}
+
+body::-webkit-scrollbar-thumb {
+padding: 5px 1px;
+width: 0px;
+background:#ccc;
+/* border-radius: 100px; */
+border-right: 1px solid transparent;
+border-left: 1px solid transparent;
+transition: 2s;
+border-top: 5px solid transparent;
+border-bottom: 5px solid transparent;
+}
+
+
+#map { z-index: 1; height: 400px; width:100%; }
+
+
+.hvrssss > div{
+                display: none;
+                transition: .4s !important;
+            }
+
+            .hvrssss:hover > div{
+                display: block;
+                transition: .4s !important;
+            }
+            
+            
+            .hvrssss:hover > h1{
+margin-top: -300px;   
+margin-left: 10px;         }
+       
+.clip{
+            position:absolute ;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            transition: 0.5s;
+        }
+
+        .clip.clip1{
+background:url('assets/pexels-mikael-blomkvist-6476249.jpg');
+background-size: cover;
+background-attachment: fixed;
+            clip-path: polygon(100% 0%, 61% 0%, 51% 100%, 100% 100%);
+            /* clip-path: polygon(0 0, 55% 0, 20% 100%, 0% 100%); */
+        }
+
+        .clipp{
+            top: 0;
+            left: 0;
+            width: 205%;
+            height: 600px;
+            transition: 0.5s;
+        }
+
+        .clipp.clipp2{
+background:url('assets/pexels-mikael-blomkvist-6476249.jpg');
+background-size: cover;
+            clip-path: polygon(0 0, 52.3% 0%, 42% 100%, 0% 100%);
+background-attachment: fixed;
+        }
+        .menuuu{
+            transition: all 0.5s ease !important; 
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- <nav>
+      
+    
+        <ul>
+            <li><a class="active" href="">HOME</a></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">HOME</a></li>
+        </ul>
+    </nav> -->
+
+
+    <div class=" bg-red-50 h-screen">
+        <nav id="asdfg" style="backdrop-filter: blur(8px);"
+            class="border-b fixed w-full z-50 md:z-40 bg-opacity-95 border-red-100 bg-transparent py-3 px-3 sm:px-16">
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fas text-gray-900 fa-bars"></i>
+            </label>
+            
+            <label for="" class="logo"> <a href="index.html">
+                        <img src="assets/logo1.png" class=" w-32" alt="">
+                    </a></label>
+
+            <div id="menuuu" class="flex items-center space-x-14 transition">
+               
+           
+                    <ul class="flex space-x-3">
+                        <button style="color: #202020;"  onclick="window.scrollTo({  top: 0, behavior: 'smooth'  });">
+                            <li class="border-b-2 font-bold transition border-transparent hover:border-red-500">Home</li>
+
+                        </button> <button style="color: #202020;"  onclick="window.scrollTo({  top: 1240, behavior: 'smooth'  });">
+                            <li class="border-b-2 transition font-bold border-transparent hover:border-red-500">Serviços</li>
+
+                        </button> <button style="color: #202020;"   onclick="window.scrollTo({  top: 2550, behavior: 'smooth'  });">
+                            <li class="border-b-2 transition font-bold border-transparent hover:border-red-500">Sobre</li>
+
+                        </button> <button style="color: #202020;"   onclick="window.scrollTo({  top: 3830, behavior: 'smooth'  });">
+                            <li class="border-b-2 transition font-bold border-transparent hover:border-red-500">Contactar</li>
+
+                        </button>
+                    </ul>
+           
+            </div>
+        </nav>
+
+        <style>
+            nav{
+  width: 100%;
+         
+            }
+            label.logo{
+                color: white;
+                font-size: 35px;
+                list-style: 80px;
+                padding: 0 100px;
+                font-weight: bold;
+            }
+            nav ul{
+                float: right;
+                margin-right: 20px;
+            }
+
+            nav ul button{
+                display: inline-block;
+                line-height: 80px;
+                margin: 0 5px;
+            }
+
+            nav ul button li{
+                color: #fff;
+                font-size: 17px;
+                text-transform: uppercase;
+                padding: 7px 13px ;
+                border-radius: 3px;
+            }
+            li.active, li:hover{
+background: #1b9bff;
+            }
+            .checkbtn{
+                font-size: 30px;
+                color: #fff;
+                float: right;
+                line-height: 80px;
+                margin-right: 40px;
+                cursor: pointer;
+            }
+            #check{
+                display: none;
+            }
+
+            @media (max-width: 952px){
+                label.logo{
+                    font-size: 30px;
+                    padding-left: 50px;
+                }
+                nav ul button li{
+                    font-size: 16px;
+                }
+            }
+
+            @media (max-width: 858px){
+                .checkbtn{
+                    display: block;
+                }
+                nav ul{
+                    position: fixed;
+                    height: 100vh;
+                    background: #2c3e50;
+                    top: 80px;
+                    left: -100%;
+                    text-align: center;
+                    width: 100%;
+                    transition:all .5s ;
+                }
+                nav ul button{
+                    display: block;
+                    margin: 50px 0;
+                    line-height: 30px;
+                }
+
+                nav ul button li{
+                    font-size: 20px;
+                }
+                li:hover, li.active{
+                    background: none;
+                    color: #0082e6;
+                }
+                #check:checked ~ ul{
+                    left: 0;
+                }
+
+            }
+        </style>
+       
+        <div class="w-full items-center px-5 sm:px-16 flex pt-52">
+           
+            <div class=" z-20 animated fadeInLeft  ">
+                <h1 style="color: #202020;" class="text-6xl w-96 md:w-full mb-3 font-bold">Bem-vindo <br>a KUDIKA <span style="font-weight: 100;">
+                        digital</span></h1>
+                <p class="mb-4 w-80 md:w-96 lg:w-4/6">Agência integrada e inovadora com soluções criativas.
+                    A nossa paixão é conectar as pessoas com as suas histórias.</p>
+                <a href="#" class="hvr-rotate hvr-forward bg-red-600 py-3  transition px-9 text-white">Junte-se a nós</a>
+            </div>
+
+            <!-- <div class="clip clip1 lg:z-50 animated fadeInRight ">
+
+            </div> -->
+        </div>
+    </div>
+
+ 
+    <div class="flex justify-between pt-0 ">
+                <div class="w-full">
+                   <div class="clipp clipp2 flex-shrink-0 bg-light w-full"></div>
+                </div>
+                
+                <div class="w-full mb-5 pt-20 px-8 md:px-16">  <h1 style="font-size: 0.8em;">SOBRE NÓS</h1>
+                <h1 class="font-bold text-4xl" style="margin-bottom: 30px; line-height: 1.2em; color: #333333;">PORQUÊ
+                    ESCOLHER <br> A <span class="text-red-600">KUDIKA</span>?</h1>
+                <p class="mb-2">Nascemos com o objetivo de humanizar marcas e formar pontes entre os negócios e seus
+                    clientes, conhecer a jornada do seu cliente e desenhar um plano estratégico de marketing, que irá
+                    conectar as pessoas e suas histórias, é a nossa paixão. </p>
+                <p>Se está em busca de inovação, engajamento e resultados, encontrou a agência certa <span
+                        class="text-red-600 font-bold">Conectando negócios e clientes.</span></p>
+            </div>
+          
+        </div>
+    </div>
+
+    <div id="wthave" class=" bg-red-600 px-3 pb-20 pt-16 sm:px-16 md:px-14">
+        <!-- <img src="assets/logo2.png" height="20" width="80" alt="" srcset=""> -->
+<div class="flex justify-center">
+    <h1 class="font-bold text-center text-4xl border-b-2 text-white" style="width: 325px;">NOSSOS SERVIÇOS </h1>
+
+</div>
+        <div class="servicos justify-center mt-14 flex flex-wrap">
+            <div
+                class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+                <div class="flex space-x-2 items-center">
+                    <i class="fas text-3xl text-white fa-globe"></i>
+                    <p class="text-white font-semibold">Web</p>
+                </div>
+                <p class="text-red-200 mt-3 pb-5">
+                    Sites exclusivos, adaptados para uma gama de dispositivos e planejados para sua empresa conquistar novos clientes.
+                </p>
+            </div>
+      
+          
+            <div
+                class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+                <div class="flex space-x-2 items-center">
+                    <i class="fas text-3xl text-white fa-sticky-note"></i>
+                    <p class="text-white font-semibold">Agenciamento de Influenciador digital</p>
+                </div>
+                <p class="text-red-200 mt-3 pb-5"> Descubra como aumentar o seu potencial desenvolvendo o Marketing de influência. Criando laços que conectem o seu público e lhe façam atingir milhões de consumidores.</p>
+
+
+            </div>
+            <div
+            class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+            <div class="flex space-x-2 items-center">
+                <i class="fas text-3xl text-white fa-object-ungroup"></i>
+                <p class="text-white font-semibold">Gestão de mídias sociais</p>
+            </div>
+            <p class="text-red-200 mt-3 pb-5">
+
+                Deixe-nos criar conteúdos, publicar imagens e vídeos para engajar o seu público alvo, e permitir que
+                venda mais, atraia mais e mantenha a estabilidade.
+
+            </p>
+
+        </div>
+            <div
+            class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+            <div class="flex space-x-2 items-center">
+                <i class="fas text-white text-3xl fa-lightbulb"></i>
+                <p class="text-white font-semibold">Design gráfico</p>
+            </div>
+            <p class="text-red-200 mt-3 pb-5">
+                Marca, logotipo, identidade visual, catálogo, portfólio, folder, apresentação, anúncio, peça publicitária, banners, embalagem, papelaria, sinalização, fachadas e muito mais.
+            </p>
+
+        </div>
+            <div
+                class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+                <div class="flex space-x-2 items-center">
+                    <i class="fas text-3xl text-white fa-camera"></i>
+                    <p class="text-white font-semibold">Fotografia</p>
+                </div>
+                <p class="text-red-200 mt-3 pb-5"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Et explicabo
+                    ipsam commodi veritatis,
+                    itaque odit repellendus eaque placeat officiis nostrum dolorem debitis labore porro a non cumque
+                    eveniet ut dolore?</p>
+
+            </div>
+            <div
+                class="shadow-lg hover:bg-red-600  transform hover:translate-y-1 cursor-pointer transition w-full sm:w-64 md:w-72 xl:w-96 p-5">
+                <div class="flex space-x-2 items-center">
+                    <i class="fas text-3xl text-white fa-plus"></i>
+                    <p class="text-white font-semibold">Outros serviços</p>
+                </div>
+   
+                    <ul style="list-style: disc;" class="text-red-200  px-6 mt-3 pb-5">
+                        <li>Copy Writer - Produto de conteúdo</li>
+                        <li>Organização e coordenação de eventos</li>
+                        <li>planejamento estratégico</li>
+                        <li>Consultoria</li>
+                    </ul>
+            
+
+            </div>
+        </div>
+
+    </div>
+    <!-- pb-36 pt-40  -->
+    <div style="    background:linear-gradient(177deg,  #391212, #0b0b0b);" class="flex-col pt-28 pb-2 md:pb-28 flex md:flex-row">
+        <div class="flex flex-wrap">
+            <img src="assets/pexels-mikael-blomkvist-6476249.jpg" style=" object-fit: cover;height: 510px;"  class="bg-red-50 w-3/6 w-full"  alt="">
+        </div>
+        <div class="flex justify-center items-center flex-col py-16">
+            <img src="assets/logo2.png" height="100" class="w-60 md:w-72 lg:w-80 mb-2" alt="" srcset="">
+            <h1 style="color: #202020;" class="font-bold text-4xl text-center bg-white p-5 md:-ml-20 mt-6">AGÊNCIA QUE O SEU NEGÓCIO PRECISA</h1>
+       <!-- <p class="text-center px-32">Mais do que apenas criar canais, queremos que a sua empresa crie conexões com seu público. Sua empresa precisa se diferenciar dos concorrentes, encantar e construir experiências marcantes. </p> -->
+        </div>
+      
+
+    </div>
+
+    
+  
+
+    <div  style="
+    background: linear-gradient(2deg,  #150808, #0b0b0b);" class="py-20 px-3 sm:px-16">
+        <h1 class="font-bold text-4xl text-white">MAIS SOBRE NÓS</h1>
+        <div class="mt-14 flex flex-col justify-around md:flex-row">
+      <div class="mb-5 hvrssss transition border-red-50 h-60 w-full md:w-80">
+          <div style="backdrop-filter: blur(30px);" class="border-2 hvr-bob cursor-default bg-transparent px-3 py-12 ml-3 text-center bg-opacity-75 text-white transition mt-4 border-red-600 md:w-80 h-60 ">
+        <p class="h-full w-full">
+            Melhorar a lucratividade e crescimento do seu negócio, conectando pessoas e marcas em experiências interativas, criativas, personalizadas e inteligentes, favorecendo empresas a vencer suas metas.
+        </p></div>
+      <h1 style="font-weight: 100;" class="text-4xl text-red-50 flex-col flex w-full h-full items-center justify-center">
+        <i class="fas fa-bullseye w-full text-6xl mb-5"></i>
+        MISSÃO</h1>
+        </div>
+      <div class="mb-5 hvrssss transition border-red-50 h-60 w-full md:w-80">
+          <div style="backdrop-filter: blur(30px);" class="border-2 hvr-bob cursor-default bg-transparent  px-3 py-20 text-center  ml-3 bg-opacity-75 text-white transition mt-4 border-red-600 md:w-80 h-60 ">
+        <p>
+            Ser referência em comunicação e execução de projetos de marketing e serviços digitais. 
+        </p></div>
+          <h1 style="font-weight: 100;" class="text-4xl text-red-50 flex w-full h-full flex-col items-center justify-center">
+            <i class="fas fa-eye w-full text-6xl mb-5"></i>
+            VISÃO</h1>
+        </div>
+      <div class="mb-5 hvrssss transition border-red-50 h-60 w-full md:w-80">
+          <div style="backdrop-filter: blur(30px);" class="border-2 hvr-bob cursor-default bg-transparent px-3 py-20 md:py-14 ml-3 bg-opacity-75 text-white text-center transition mt-4 border-red-600 md:w-80 h-60 justify-center flex items-center">
+        <p>Criatividade, Responsabilidade, Integridade, Comprometimento, Versatilidade, Inteligência, Inovação, ética profissional, superação dos resultados e Melhoria contínua.</p></div>
+      <h1 style="font-weight: 100;" class="text-4xl text-red-50 flex flex-col w-full h-full items-center justify-center">
+        <i class="fas fa-balance-scale w-full text-6xl mb-5"></i>
+        VALORES</h1>
+        </div>
+        </div>
+    </div>
+  
+    <!-- clipp clipp2 -->
+    <div class="w-full">
+    <div class="w-full px-3 md:px-28 shadow-xl lg:px-52 xl:px-80 h-screen flex justify-center items-end" style="background: url('assets/8aac0d90-23da-4b0f-8085-73811cddf9a7.jfif'); background-size: cover; background-repeat: no-repeat;">
+<div class="bg-gray-100 rounded-t-3xl py-12 px-8">
+  <i class="fa fa-quote-left mb-6 text-4xl text-gray-300"></i> 
+
+  <p  style="line-height: 1.6em;">Não deixe que as pessoas lhe digam que suas ideias não vão funcionar.
+    Se você é apaixonado por uma ideia que está presa na sua cabeça, encontre uma maneira de construí-la para provar a si mesmo que não funciona.</p>
+<div class="w-full items-center flex justify-end">
+<p class="font-semibold mt-10 text-black text-opacity-70">Dennis Crowley</p>
+</div>
+</div>
+    </div>
+    </div>
+
+    <div id="contact" class="bg-white mb-28 pt-32 px-3 sm:px-16 w-full">
+      
+            <h1 class="font-bold text-4xl" style="line-height: 1.2em; color: #202020;">CONTACTE-NOS</h1>
+           
+<p style="margin-bottom: 30px; font-size: 0.9em; "> Tem dúvidas? Críticas? Sugestões? Fala connosco. Teremos o maior prazer em receber a sua mensagem!</p>
+            <div class="w-full  md:items-center
+         flex
+         md:flex-row
+         flex-col">
+         
+       
+            <form action="" class="space-y-2.5 mr-8 w-full">
+                <div class="flex space-x-2">
+                  
+                  <div class="flex flex-col w-full">
+                    <label class="block text-gray-800" style="font-size: 0.99em;">Nome</label>
+                    <input type="text" placeholder="Digite o seu nome" name="nome" id="" class="border bg-gray-100 hover:bg-white placeholder-gray-500 text-gray-800 w-full py-2 px-3 transition outline-none">
+                  
+                  </div>
+                  
+                  <div class="flex flex-col w-full">
+                    <label class="block text-gray-800" style="font-size: 0.99em;">Número</label>
+                    <input type="number" max="9" placeholder="Digite seu número de telefone" name="telefone" id="" class="border bg-gray-100 hover:bg-white placeholder-gray-500 text-gray-800 w-full py-2 px-3 transition outline-none">
+                </div> </div>
+                <div class="flex space-x-2">
+                    <div class="flex flex-col w-full">
+                        <label class="block text-gray-800" style="font-size: 0.99em;">Email</label>
+                        <input type="email" placeholder="email@exemplo.com" name="email" id="" class="border bg-gray-100 hover:bg-white placeholder-gray-500 text-gray-800 w-full py-2 px-3 transition outline-none">
+                   
+                      </div>
+                </div>
+                <div class="flex-col flex">
+                    <label class="block mt-1 text-gray-800" style="font-size: 0.99em;">Assunto</label>
+                    <input type="text" placeholder="Qual é o assunto para esta mensagem?" name="" id="" class="border bg-gray-100 hover:bg-white placeholder-gray-500 text-gray-800 w-full py-2 px-3 transition outline-none">
+                    <label class="block mt-2 text-gray-800" style="font-size: 0.99em;">Mensagem</label>
+                    <textarea name="msg" placeholder="Mensagem..." id="" class="border bg-gray-100 hover:bg-white placeholder-gray-500 text-gray-800 w-full py-2 px-3 transition outline-none"></textarea>
+                </div>
+<div style="margin-top: 15px !important;">
+    <input type="submit" value="Enviar" class="w-full py-3 bg-red-600 text-red-50">
+</div>
+             </form>
+                <div class="md:w-4/6 mt-10 md:-mt-10">
+                  
+           <div class="">
+               <p class="font-bold mt-5">LOCALIZAÇÃO</p>
+                    <div class="flex space-x-2 items-center mb-3">
+                        <i class="text-red-600 text-lg fas fa-map-marker-alt"></i>
+                        <p class="text-gray-700 text-lg">Rangel, CTTs, Ed. Digital.ao</p>
+                    </div>
+                </div>
+                <div id="map"></div>
+            </div>
+            </div>
+
+         
+    </div>
+
+
+
+
+
+
+
+    <footer style="background: #202020;" class=" px-3 pb-8 pt-16 sm:px-16">
+        <div class="md:flex-row md:items-center justify-around flex flex-col">
+
+               <div>
+                    <div class="">
+                        <ul class="text-white">
+                            <a href="">
+                                <li>Termos de uso</li>
+                            </a>
+                            <a href="">
+                                <li>Política de privacidade</li>
+                            </a>
+                            <!-- <li>link</li>
+                        <li>link</li> -->
+                        </ul>
+                    </div>
+                </div>
+
+
+
+
+            <div class="flex-shrink w-full text-white mt-5 md:mt-0 md:w-96">
+                <h2 class="text-xl font-semibold">Junte-se à nossa lista exclusiva</h2>
+                <p class="text-xs mb-2">
+                    Você receberá as melhores actualizações da KUDIKA</p>
+                <div class="flex items-center space-x-2">
+                    <input type="text" placeholder="email@exemplo.com"
+                        class="py-1.5 px-2 placeholder-gray-600 text-gray-800 outline-none w-full" name="" id="">
+                    <button class="px-5 hvr-forward bg-red-500 py-1.5">
+                        Enviar
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+        <ul class="flex flex justify-center mt-10 space-x-3 mb-3 text-red-100">
+            <a href="">
+                <li class="bg-red-600 flex px-3 py-1 justify-center items-center"><i
+                        class="mr-2 fab fa-facebook-f text-2xl"></i> kudika digital</li>
+            </a>
+            <a href="">
+                <li class="bg-red-600 flex px-3 py-1 justify-center items-center"><i
+                        class="mr-2 fab fa-whatsapp text-2xl"></i> 932390190</li>
+            </a>
+            <a href="">
+                <li class="bg-red-600 flex px-3 py-1 justify-center items-center"><i
+                        class="mr-2 fab fa-instagram text-2xl"></i> kudika_digital</li>
+            </a>
+
+        </ul>
+    </footer>
+    </div>
+
+    <script type="text/javascript">
+
+        if('geolocation' in navigator){
+        
+            var map;
+        
+        
+            function success(position){
+                
+        if(map === undefined){
+           map = L.map('map').setView([ -8.819521,   13.266546], 13);
+        }else{
+           map.remove();
+           map = L.map('map').setView([ -8.819521,   13.266546], 13);
+        
+        }
+        
+
+        map.on('click', () => { console.log(e.lng); });
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+        
+        
+        L.marker([ -8.819521,   13.266546]).addTo(map)
+            .bindPopup('Ed. Digital.ao | KUDIKA')
+            .openPopup();
+        
+        
+        
+                }
+        
+        
+              
+        
+            const watcher = navigator.geolocation.watchPosition(success, function(error){
+                    console.log(error)
+                }, { enableHighAccuracy: true, maximumAge: 30000, timeout: 30000});
+                // navigator.geolocation.clearWatch(watcher)
+        
+           
+              }else{
+            alert('Ops, não foi possível pegar localização')
+        }
+        
+        
+        
+        </script>
+                   
+            <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+           integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+           crossorigin=""></script>
+    <script src="js/all.js"></script>
+    
+
+    <script>
+        	function bgChanger() {
+	if(this.scrollY >this.innerHeight / 1){
+        document.getElementById('asdfg').style.background='white';
+	}else{
+        
+document.getElementById('asdfg').style.background='transparent';
+
+	}
+
+    if(this.scrollY >this.innerHeight / 1){
+        document.getElementById('menuuu').classList.add('justify-between')
+        document.getElementById('menuuu').classList.add('transition')
+
+	}else{
+        document.getElementById('menuuu').classList.add('transition')
+        document.getElementById('menuuu').classList.remove('justify-between')
+
+	}
+
+    if(this.scrollY >this.innerHeight / 100){
+        document.getElementById('menuuu').classList.add('z-50')
+
+	}else{
+        document.getElementById('menuuu').classList.remove('z-10')
+
+	}
+
+	}
+
+window.addEventListener("scroll", bgChanger);
+    </script>
+</body>
+
+</html>
